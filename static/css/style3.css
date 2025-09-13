@@ -1,0 +1,46 @@
+
+       
+       *{
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+        
+        
+       }
+       a{
+           font: 100;
+       }
+       h1{
+           
+           margin:100px;
+           color: black;
+           font-size: 60px;
+       }
+       h2{
+        margin:40px;
+        color:rgb(183, 51, 192);
+        font-size: 40px;
+       }
+       .center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+      table{
+          background-color: white;
+          border-radius: 50px;
+        /* border: 2px solid rgb(125, 125, 183); */
+        
+      }
+      th{
+         padding: 50px;
+          margin:50px;
+         
+      }
+      img{
+          height:200px;
+          width:300px;
+          border-radius: 20px;
+      }
+      .space{
+          margin-block: 100px;
+      }
+    
